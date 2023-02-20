@@ -5,14 +5,7 @@
 Esse projeto foi desenvolvido para aprimoração dos conhcimentos obtidos durante os estudos de HTML5, CSS e JS. Projeto pessoal que direciona aos meus <strong>PORTFÓLIO, CURRÍCULO, TECNOLOGIAS</strong> que estou aprendendo e <strong>CONTATO</strong>.
 
 <br/>
-<img src="./assets/printprojeto1.jpeg">
-
-<br/>
-
-> Utilizando a funcionalidade com JS :
-<br/>
-
-<img src="./assets/printprojeto2.jpeg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-imnvXWJOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
