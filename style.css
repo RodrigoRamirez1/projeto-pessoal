@@ -116,7 +116,7 @@ ul li a {
   padding: 16px 24px;
   
   background: var(--surface-color);
-  border: 2px solid var(--stroke-color);
+  border-bottom: 3px solid var(--stroke-color);
   border-radius: 8px;
 
   backdrop-filter: blur(4px);
