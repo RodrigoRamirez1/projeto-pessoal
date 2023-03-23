@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-   --bg-gra: linear-gradient(#232526, #414345);
+   /* --bg-gra: linear-gradient(#232526, #414345); */
   --stroke-color: rgb(153, 51, 153);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: #800080;
@@ -24,7 +24,8 @@
 
 body {
   /* background: var(--bg-url) no-repeat top center/cover; */
-    background: var(--bg-gra);
+    background: url(./assets/bg1.jpg);
+    background-repeat: no-repeat;
   /* height: 100vh; */
 }
 
